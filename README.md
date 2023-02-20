@@ -2,5 +2,5 @@
 
  Olá! Bem vindo ao meu livro de receitas :happy:
 
-- Novos Ingredientes
-- 
+- Lasanha a Bolonhesa
+- Strogonoff de Frango
